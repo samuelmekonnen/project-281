@@ -3,5 +3,6 @@ Hello world
 This is from d.txt 
 I will make up you by comming early tommrow oky
 This is from d.txt
-how are you doing?
+how are you doing? 
+HBD
 
