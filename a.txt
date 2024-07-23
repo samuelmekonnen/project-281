@@ -1,7 +1,3 @@
-<<<<<<< HEAD
+
 This is a.txt 
-This is a.txt from local repository.
-=======
-This is a.txt 
-this is a.txt from remote repository
->>>>>>> 6eef323bbb8c7fbbf004413f11e1a277e1a4ae1a
+this is a.txt from remote repository.
