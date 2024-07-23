@@ -1,0 +1,2 @@
+This is b.txt file 
+this local remote repository
