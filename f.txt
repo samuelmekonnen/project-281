@@ -1,1 +1,2 @@
-I created f.txt
+I created f.txt 
+This is f.txt from remote repository
