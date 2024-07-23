@@ -1,2 +1,3 @@
 Hello world
 This is from d.txt
+HOw are doing
