@@ -6,7 +6,9 @@ THhis is from main branch
 I got fixed conflict 
 This command line from main
 HOW to fix by commandline?
+<<<<<<< HEAD
 Main and develop files 
 Hello world .
-
+Hi there!
+This is branch main and develop.
 
