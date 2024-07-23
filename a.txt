@@ -2,4 +2,5 @@
 Hello world
 This is a.txt 
 this is a.txt from remote repository.
-i fixed conflicts
+i fixed conflicts 
+LOL
