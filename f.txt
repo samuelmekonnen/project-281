@@ -1,2 +1,6 @@
+
 I created f.txt 
 This is f.txt from local repo
+I created f.txt 
+This is f.txt from remote repository
+
