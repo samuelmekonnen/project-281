@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-
 
 This is a.txt 
 This is a.txt from local repository.
 This is a.txt 
 this is a.txt from remote repository
 This is a.txt 
-this is a.txt from remote repository.
-
-=======
+this is a.txt from remote repository
 Hello world
->>>>>>> 5403871 (some commit)
+This is a.txt
+
